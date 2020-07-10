@@ -20,7 +20,7 @@ Other stuff:
 - [Python Custom skill] for Azure Search
 
 [Home Assistant]: https://www.home-assistant.io/
-[pyIndego]: /pyIndego
+[pyIndego]: https://github.com/eavanvalkenburg/pyIndego
 [Indego]: https://github.com/eavanvalkenburg/Indego
 [SIA alarm]: https://github.com/eavanvalkenburg/pysiaalarm
 [SIA alarm component]: https://github.com/eavanvalkenburg/sia
