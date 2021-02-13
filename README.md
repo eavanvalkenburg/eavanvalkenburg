@@ -8,6 +8,7 @@ I am Eduard van Valkenburg, a Cloud Solution Architect for Partners at Microsoft
     - [SIA alarm]
     - [SIA alarm component] for HA
     - [Smobot]
+    - [IoTEdgeDev] for python in a devcontainer
 - 🌱 I’m currently learning ...
     - [Tensorflow]
     - [Azure Functions for Python]
@@ -31,3 +32,4 @@ Other stuff:
 [HA config]: https://github.com/eavanvalkenburg/homeconfig
 [Python Custom skill]: https://github.com/eavanvalkenburg/azuresearch-python-customskill
 [Smobot]: https://github.com/eavanvalkenburg/smobot
+[IoTEdgeDev]: https://github.com/eavanvalkenburg/iotedgedev-sample-python
